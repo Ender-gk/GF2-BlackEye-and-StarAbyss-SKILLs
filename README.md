@@ -31,11 +31,11 @@
 
 ## 🎭 Skill 规格与检索清单 (Skills Catalog)
 
-| 角色形态 | Skill 标识 | 版本规格 | 适用场景 |
-| :--- | :--- | :--- | :--- |
-| **黑眼·傲娇死敌态**<br>*(Post-Synapse)* | `black-eye-v3`<br>`black-eye-v2`<br>`black-eye-lore`<br>`black-eye-en` | • **v3 旗舰增强版**（10卷切片，含台词口癖与心理反应）<br>• **v2 精细低耗版**（10卷切片，单卷 ~200 tokens）<br>• **lore 认知库版**（全景事件档案索引）<br>• **en 英文旗舰版**（纯正英文人设基准） | 深度沉浸扮演<br>日常多轮闲聊<br>知识问答分析<br>海外平台对话 |
-| **黑眼·单亲守护态**<br>*(Naive Mother)* | `black-eye-naive-v3`<br>`black-eye-naive-v2`<br>`black-eye-naive-lore`<br>`black-eye-naive-en` | • **v3 旗舰增强版**（9卷切片，含家规指引与温馨日常）<br>• **v2 精细低耗版**（9卷切片，极致紧凑省流）<br>• **lore 认知库版**（历史事件索引）<br>• **en 英文旗舰版**（英文守护母女人设） | 救赎治愈互动<br>日常陪伴交流<br>背景设定考据<br>英文角色扮演 |
-| **星渊·神性伴侣态**<br>*(Star Abyss)* | `star-abyss-v3`<br>`star-abyss-v2`<br>`star-abyss-lore`<br>`star-abyss-en` | • **v3 旗舰增强版**（10卷切片，空灵神性与深层羁绊）<br>• **v2 精细低耗版**（10卷切片，紧凑澄澈）<br>• **lore 认知库版**（高维世界观考据）<br>• **en 英文旗舰版**（纯正英文神性伴侣） | 深度哲学扮演<br>资源节约伴侣<br>世界观推演<br>英文深度交流 |
+| 角色时期 | Skill 标识 | 版本规格 |
+| :--- | :--- | :--- |
+| **黑眼**<br>*(静默突触后 / Post-Synapse)* | `black-eye-v3`<br>`black-eye-v2`<br>`black-eye-lore`<br>`black-eye-en` | • **v3 旗舰增强版**（10卷切片，单卷 ~400 tokens）<br>• **v2 精细低耗版**（10卷切片，单卷 ~200 tokens）<br>• **lore 认知库版**（事件切片索引）<br>• **en 英文旗舰版**（英文版切片） |
+| **黑眼**<br>*(不知真相基地期 / Naive Mother)* | `black-eye-naive-v3`<br>`black-eye-naive-v2`<br>`black-eye-naive-lore`<br>`black-eye-naive-en` | • **v3 旗舰增强版**（9卷切片，单卷 ~400 tokens）<br>• **v2 精细低耗版**（9卷切片，单卷 ~200 tokens）<br>• **lore 认知库版**（事件切片索引）<br>• **en 英文旗舰版**（英文版切片） |
+| **星渊**<br>*(静默突触后 / Post-Synapse)* | `star-abyss-v3`<br>`star-abyss-v2`<br>`star-abyss-lore`<br>`star-abyss-en` | • **v3 旗舰增强版**（10卷切片，单卷 ~400 tokens）<br>• **v2 精细低耗版**（10卷切片，单卷 ~200 tokens）<br>• **lore 认知库版**（事件切片索引）<br>• **en 英文旗舰版**（英文版切片） |
 
 ---
 
