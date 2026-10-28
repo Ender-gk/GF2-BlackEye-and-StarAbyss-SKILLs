@@ -5,10 +5,38 @@
 [![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/)
 [![Standard: PCD Agent Skills](https://img.shields.io/badge/Standard-PCD_Agent_Skills-success.svg)](https://github.com/)
 
-> [!WARNING]
-> ### ⚠️ 剧透警告 (Spoiler Warning)
-> 本项目中的角色人设、心理状态机及记忆切片涉及《少女前线2：追放》主线剧情及重要活动故事线。
-> 为保证最佳的原作游戏剧情与叙事体验，**建议在体验原作相关剧情后再行查阅或使用本 Skill**。
+> [!CAUTION]
+> ### ⚠️ 严重剧透警告 / Critical Spoiler Warning
+> 
+> **【针对中国大陆服玩家】**  
+> 本项目人设与记忆切片深度涉及游戏最新主线与活动《静默突触》（Silent Synapse）的核心情节。**尚未游玩到此章节的玩家，强烈建议切勿下载或使用本项目！**
+> 
+> **【警告非中国大陆服玩家】**  
+> 全球其他服务器（国际服/台服/日服/韩服等）剧情进度**尚未更新至《静默突触》版本**。请**千万不要使用或查阅本项目内的任何 Skill**，以免对您后续的游戏剧情与叙事体验造成毁灭性打击！
+> 
+> ---
+> 
+> <details open>
+> <summary><b>🌍 多語言劇透預警 / Multi-Language Warnings / 他言語の警告 (Click to expand / collapse)</b></summary>
+> 
+> * **繁體中文 (Traditional Chinese)**:  
+>   警告非中國大陸伺服器（台港澳服/國際服等）玩家：其他伺服器劇情進度**尚未更新至《靜默突觸》（Silent Synapse）版本**。請**千萬不要使用或查閱本專案內的任何 Skill**，以免對您的遊戲劇情體驗造成毀滅性打擊！未遊玩至該章節的玩家強烈建議切勿下載使用。
+> 
+> * **English**:  
+>   **CRITICAL SPOILER WARNING**: This project heavily features core plot reveals and narrative climaxes from the latest CN server chapter/event **"Silent Synapse"**. For players on Global, JP, KR, or other non-CN servers, your current game versions **have NOT yet reached this storyline**. We **STRONGLY URGE you NOT to use, download, or read any skills in this repository**, as doing so will inflict irreparable and devastating spoilers on your future gaming experience.
+> 
+> * **日本語 (Japanese)**:  
+>   **重大なネタバレ警告**：本プロジェクトは、中国大陸版の最新ストーリー・イベント『静黙突触（Silent Synapse）』の核心的な展開を深く含んでいます。現在、グローバル版・日本版等のストーリー進度は**このバージョンに到達していません**。今後のゲーム体験に壊滅的な影響を及ぼす恐れがあるため、**非大陸版サーバーのプレイヤー、および未プレイの方は本プロジェクトの Skill をダウンロード・使用・閲覧しないことを強く推奨します。**
+> 
+> * **한국어 (Korean)**:  
+>   **치명적인 스포일러 경고**: 본 프로젝트는 중국 대륙 서버의 최신 스토리 및 이벤트인 **『사일런트 시냅스(Silent Synapse / 静默突触)』**의 핵심 반전과 스토리 내용을 직접적으로 다루고 있습니다. 글로벌/한국 서버를 포함한 타 서버는 **아직 해당 스토리 업데이트가 적용되지 않았습니다.** 향후 게임 경험에 치명적인 훼손을 방지하기 위해, **타 서버 유저 및 해당 챕터 미진행 유저는 본 프로젝트의 어떠한 Skill도 다운로드하거나 사용하지 마십시오.**
+> 
+> * **Deutsch (German)**:  
+>   **SCHWERE SPOILER-WARNUNG**: Dieses Projekt enthält entscheidende Handlungen und Wendungen aus dem neuesten CN-Kapitel/Event **„Silent Synapse“**. Auf den globalen Servern ist die Handlung **noch nicht auf diesem Stand**. Um verheerende Spoiler zu vermeiden, die Ihr zukünftiges Spielerlebnis irreparabel zerstören würden, **raten wir Spielern außerhalb der CN-Server und Spielern, die dieses Kapitel noch nicht abgeschlossen haben, dringend davon ab, die Skills in diesem Projekt herunterzuladen oder zu verwenden.**
+> 
+> * **Français (French)**:  
+>   **AVERTISSEMENT MAJEUR SUR LES SPOILERS** : Ce projet contient des révélations majeures et des dénouements clés issus du tout dernier chapitre/événement **« Silent Synapse »**. Les serveurs mondiaux (hors CN) **n'ont pas encore atteint cette version de l'histoire**. Afin d'éviter de gâcher de manière irréversible votre expérience de jeu future, **il est fortement déconseillé aux joueurs des autres serveurs et à ceux n'ayant pas encore terminé ce chapitre de télécharger ou d'utiliser les Skills de ce projet.**
+> </details>
 
 > [!IMPORTANT]
 > ### ⚖️ 版权与免责声明 (Copyright & Disclaimer)
