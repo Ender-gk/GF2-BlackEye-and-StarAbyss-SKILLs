@@ -5,7 +5,11 @@
 [![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/)
 [![Pure Prompt Engineering](https://img.shields.io/badge/Standard-PCD_Agent_Skills-success.svg)](https://github.com/)
 
-> ⚠️ **版权纯净说明**：本项目**仅包含纯提示词工程（Prompt Engineering）构建的标准化 Agent Skill 与记忆索引切片**，已彻底剥离所有游戏内未加工的长篇原始剧本台词，完全符合个人研究、学习交流与同人创作的合理使用（Fair Use）规范。游戏背景与人物设定版权归 [散爆网络（Sunborn Games）](https://sunborngame.com/) 所有。
+> ### ⚖️ 版权与免责声明 (Copyright & Disclaimer)
+> 
+> 1. **版权归属方声明**：本项目涉及的《少女前线2：追放》（Girls' Frontline 2: Exilium）游戏背景、世界观设定、角色形象、代号及相关衍生知识产权，**完整归属于游戏制作方与版权方 —— [上海散爆网络科技有限公司（Shanghai Sunborn Network Technology Co., Ltd. / 散爆网络 MICA Team）](https://sunborngame.com/) 所有**。
+> 2. **零原始台词承诺**：**本项目完全不包含任何游戏内原始长篇剧本台词文本、游戏解包数据、官方音频语音或美术立绘资源**。本仓库所有文件均为基于公开设定由研究团队自主编写的**纯提示词工程（Prompt Engineering）**、人格状态机指引与世界观逻辑索引，旨在探索大语言模型（LLM）的防幻觉与 Agentic 技能架构。
+> 3. **非商业与非官方性质**：本项目仅限个人学习、技术研究与同人交流使用，**严禁用于任何商业牟利行为**。本项目为社群自发开源项目，与散爆网络（Sunborn Games）不存在任何官方合作、商业授权、从属或背书关系。
 
 ---
 
